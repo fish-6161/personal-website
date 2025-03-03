@@ -5,5 +5,17 @@ body {
 text-align: center;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 background-color: green;
-
+height:1000px;
 }
+input{
+float:;
+}
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
